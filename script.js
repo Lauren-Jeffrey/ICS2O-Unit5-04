@@ -10,6 +10,6 @@ function myfunction () {
   baseA = +baseA
   baseB = +baseB
   height = +height
-  area = [(baseA +baseB) / 2] * height
+  area = [(baseA + baseB) / 2] * height
   alert(area)
 }
